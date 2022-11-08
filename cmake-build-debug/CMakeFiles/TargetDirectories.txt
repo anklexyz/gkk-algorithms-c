@@ -1,0 +1,3 @@
+/cygdrive/e/Projects/Clion_Projects/gkk-algorithms-c/cmake-build-debug/CMakeFiles/gkk_algorithms_c.dir
+/cygdrive/e/Projects/Clion_Projects/gkk-algorithms-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/Projects/Clion_Projects/gkk-algorithms-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
